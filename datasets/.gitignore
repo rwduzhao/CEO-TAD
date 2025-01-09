@@ -1,0 +1,8 @@
+activitynet
+thumos14
+finegym
+*.pt
+*.pth
+*.mp4
+*.npy
+download_report.json
